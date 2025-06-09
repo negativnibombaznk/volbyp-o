@@ -2,6 +2,7 @@
 Aby uruchomić plik, potrzebujemy bibliotek „requests” i „beautifulsoup4”.
 
 Pobierz w terminalu za pomocą dwóch poleceń:
+
 pip install beautifulsoup4
 pip install requests
 
